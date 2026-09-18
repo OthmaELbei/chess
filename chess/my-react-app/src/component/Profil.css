@@ -1,0 +1,33 @@
+/* .profile_parent
+{
+    width: 100 vw;
+    height: 100 vh;
+    background-color:#0a122a ;
+} */
+
+.container .crid
+{
+    border-radius: 9px;
+    min-width: 200px;
+    min-height: 200px;
+    background-color: #101833f1;
+    /* border: 2px solid red; */
+    /* border: 2px solid red; */
+    /* background: linear-gradient(213deg, #C9A126 0%, rgba(10, 18, 42, 0.78) 10%); */
+/* background: linear-gradient(to right, #dc2626, #0a122a); */
+}
+.s{
+    font-size: 8px;
+    padding: 5px;
+    background-color:#101833 ;
+    box-shadow: 0px 1px 3px #C9A126;
+    border-radius: 9px;
+    font-weight:100;
+    color: #cbced6;
+}
+.crid .profil
+{
+    background-color: #1c2647;
+    margin: 10px;
+    border-radius: 9px;
+}
